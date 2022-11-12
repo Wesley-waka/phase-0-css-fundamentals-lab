@@ -3,3 +3,35 @@ body {
   height: 100%;
   margin: 0;
 }
+body header{
+  padding: px;
+  margin-left: 36%;
+
+}
+body a{
+  background-color: gray;
+}
+body a:hover{
+  color: black;
+  background-color: crimson;
+}
+#featured-property figure img{
+  height: 399px;
+  margin-left: 25%;
+
+}
+#featured-property figure figcaption{
+  margin-left: 30%;
+}
+#featured-property  p{
+  margin-left: 25%;
+  margin-right: 24%;
+  text-align: center;
+
+}
+#details{
+  display: -webkit-box;
+  background-color: red;
+  display: flex;
+  justify-content: space-between;
+}
